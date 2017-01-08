@@ -1,0 +1,38 @@
+A Finir :
+
+- Mettre les fichiers sur le serveur hôte de Cedille & synchroniser avec GitHub
+- Traduction Anglaise (à la fin, dans indexEN.html) **Important**: Changer le lien dans indexEN.html vers index.hmtl
+- Photos et Description des évènements.
+- Il faut finir les bières :
+	- Les deux "comming soon" n'ont rien présentement
+	- La Geni-Hell, La fin de session et la 40ème n'ont aucune information associée (mais ont les images)
+	- S'inspirer de La Page Blanche pour finir les autres.
+	**IMPORTANT : Si les images ne sont pas du même aspect-ratio, il est possible qu'elles ne s'enlignent pas convenablement (Donc, standardiser la grosseur des bannières du site serait important dans le future).
+
+- Partenaires (c'est pas encore claire faut mettre lesquels)
+- Tester le email via le "contact form" (nécessite le serveur PHP)
+- Corriger les textes (double check)
+- AJOUTER UNE SECTION ÉQUIPE.
+
+- De plus, Thomas voulait que Cedille host son dashboard. Ça pose pas problem faut juste en parler à Gotham pour que ce soit mergé. (On en parle après le site)
+
+Note:
+
+J'ai mis les boutons G+, twitter, LinkedIn et le ballon de basketball (lol?) en commentaire car ils ne pointent vers rien présentement.
+
+De ce fait, dans le GenieAle.css j'ai modifié la grosseur du seul bouton (ligne 472). À modifier encore si vous voulez qu'il y en ai 5
+
+Grosseur Originale :
+
+.btn-social { 
+  display: inline-block;
+  height: 50px;
+  width: 50px;
+  border: 2px solid white;
+  border-radius: 100%;
+  text-align: center;
+  font-size: 20px;
+  line-height: 45px;
+}
+
+Bref si vous remettez juste un ou deux boutons, laisser ça tel quel et ajouter les liens, that's it that's all.
