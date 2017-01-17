@@ -1,0 +1,2 @@
+Le banc de brassage permette de brasser de faible quatité de bière pour des brassins tests ou des brassins d'exeception.
+De plus, c'est sur ce système qu'on développe nos différentes technologique avec le boitier électrique, le système de contrôle, l'automatisation et les interfaces de contrôle).

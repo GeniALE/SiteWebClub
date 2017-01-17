@@ -1,0 +1,2 @@
+Le systeme de controle permette de controler et d'acquissition le systeme de brassage. Fonctionnant sur le principe l'internet des objets, il est possible de d'accès via une page web, un application mobile puisqu'il est connecter au réseau internet.
+Le syteme est personnalisable en changeant les différentes cartes esclaves permmettant ainsi de s'adapter au besoin de systeme de brassage.
